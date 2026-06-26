@@ -21,7 +21,7 @@ A custom STM32N6-based AI vision module!
   <a href="#main-components">Main Components</a> •
   <a href="#communication-interfaces">Communication Interfaces</a> •
   <a href="#power-architecture">Power System</a> •
-  <a href="#bom">BOM</a> •
+  <a href="#bom">BOM</a> 
 </p>
 
 ---
