@@ -1,6 +1,8 @@
 # Aero32
 
 <img width="3456" height="1884" alt="MainRender1" src="https://github.com/user-attachments/assets/c4da0b33-52e1-4049-8f33-8104e93957bc" />
+<img width="3006" height="2002" alt="BoardRender1" src="https://github.com/user-attachments/assets/e170187c-141b-4145-a977-77b0322f71fb" />
+
 
 <h4 align="center">
 A custom STM32N6-based AI vision module!
