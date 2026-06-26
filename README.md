@@ -1,5 +1,7 @@
 # Aero32
 
+<img width="3456" height="1884" alt="MainRender1" src="https://github.com/user-attachments/assets/c4da0b33-52e1-4049-8f33-8104e93957bc" />
+
 <h4 align="center">
 A custom STM32N6-based AI vision and sensor board designed for high-power rocketry flight computer integration.
 </h4>
