@@ -24,8 +24,6 @@ A custom STM32N6-based AI vision module!
   <a href="#bom">BOM</a> 
 </p>
 
----
-
 ## Key Features
 
 - **STM32N657X0H3Q** — Neural-ART accelerator that is used alongside the STM32N6 MCU
@@ -41,14 +39,11 @@ A custom STM32N6-based AI vision module!
 - **5× Status LEDs** — 3 green + 2 red for power and debug feedback
 - **Input OR** — TPS2121 power multiplexer for safe dual-source power switching
 
----
-
 ## Purpose
+
 Aero32 is a small and compact AI vision board designed to serve as a node for drones or other flight hardware. The board offloads computer vision and processing from the external processing, communicating the results over UART, I2C, or SPI.
 
 The STM32N6's Neural Processing Unit (NPU) allows anomaly detection, human recognition, and other advanced recognition directly on the board without AI hardware or wifi.
-
----
 
 ## PCB
 
@@ -57,8 +52,6 @@ Designed in **KiCad** and manufactured through **JLCPCB** (soon). The board uses
 ### Schematic
 
 <img width="2200" height="1700" alt="Aero32-1" src="https://github.com/user-attachments/assets/e6d21b9e-2f73-4a85-9a8d-d651be0493ee" />
-
----
 
 ## Main Components
 
@@ -84,8 +77,6 @@ Designed in **KiCad** and manufactured through **JLCPCB** (soon). The board uses
 | Status LEDs | KT-0603G / KT-0603R | Green (×3) / Red (×2) 0603 LEDs |
 | TVS Diode | LESD5D5.0CT1G | 150W Bidirectional TVS 5V |
 
----
-
 ## Communication Interfaces
 
 ### UART (×2)
@@ -100,16 +91,10 @@ One SPI port available for high-speed peripheral communication.
 ### Camera (CSI)
 A 15-pin 1mm pitch FPC connector (Omron XF3M) provides the camera sensor interface.
 
----
-
 ## Power Architecture
 
 Aero32 supports dual power inputs (USB-C and XT30 battery) with automatic source switching via the TPS2121 power mux.
 
----
-
 ## BOM
 
 The full Bill of Materials is available in [`Aero32_BOM.csv`](./PCB/Aero32_BOM.csv), formatted for direct JLCPCB assembly upload.
-
----
