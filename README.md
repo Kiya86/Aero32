@@ -144,7 +144,7 @@ Extensive decoupling is applied across all rails using a combination of 100nF, 1
 
 ## BOM
 
-The full Bill of Materials is available in [`Aero32_BOM.csv`](./Aero32_BOM.csv), formatted for direct JLCPCB assembly upload.
+The full Bill of Materials is available in [`Aero32_BOM.csv`](./PCB/Aero32_BOM.csv), formatted for direct JLCPCB assembly upload.
 
 Summary:
 
