@@ -14,6 +14,7 @@ It runs an **STM32N6** which has a built-in Neural Processing Unit (NPU). This a
 
 Think of it like this:
 
+```
 ┌─────────────────────────────────────────────┐
 │                                             │
 │   Flight Computer                           │
@@ -27,3 +28,4 @@ Think of it like this:
 │       something that shouldn't be there"    │
 │                                             │
 └─────────────────────────────────────────────┘
+```
