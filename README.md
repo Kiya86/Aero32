@@ -44,7 +44,6 @@ A custom STM32N6-based AI vision module!
 ---
 
 ## Purpose
-
 Aero32 is a small and compact AI vision board designed to serve as a node for drones or other flight hardware. The board offloads computer vision and processing from the external processing, communicating the results over UART, I2C, or SPI.
 
 The STM32N6's Neural Processing Unit (NPU) allows anomaly detection, human recognition, and other advanced recognition directly on the board without AI hardware or wifi.
