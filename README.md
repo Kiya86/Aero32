@@ -98,3 +98,7 @@ Aero32 supports dual power inputs (USB-C and XT30 battery) with automatic source
 ## BOM
 
 The full Bill of Materials is available in [`Aero32_BOM.csv`](./PCB/Aero32_BOM.csv), formatted for direct JLCPCB assembly upload.
+
+JLCPCB Quote
+<img width="3174" height="1922" alt="image" src="https://github.com/user-attachments/assets/1fe0bbe3-fb12-4405-9bad-bdb3e5c00252" />
+
