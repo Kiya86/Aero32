@@ -10,7 +10,7 @@ A custom STM32N6-based AI vision module!
 
 <div align="center">
 
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![KiCad](https://img.shields.io/badge/EasyEda-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![STM32N6](https://img.shields.io/badge/STM32N6-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![JLCPCB](https://img.shields.io/badge/JLCPCB-C00000?style=for-the-badge&logoColor=white)
 
