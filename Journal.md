@@ -6,8 +6,6 @@
 
 **Total Time (Hours): 352 Hours**
 
----
-
 ## Week 1 (05/18/2026) - 42 Hours
 
 Days worked on:
@@ -27,8 +25,6 @@ Friday – 9 hours<br>
 - Created a KiCad project and started to add all the components ONE BY ONE (I am genuinely so mad this took so long)
 - Broke up the schematic into different chunks to make life easier (Also found out STM32N6 has multiple symbols)
 - Estimated overall board dimensions so the module could easily fit inside a bunch of stuff (universal)
-
----
 
 ## Week 2 (06/01/2026) - 48 Hours
 
@@ -51,8 +47,6 @@ Friday – 10 hours<br>
 - Spent several hours checking datasheets to verify recommended layouts (Also double checked all connections for shorts!)
 - Organized schematic sections
 
----
-
 ## Week 3 (06/08/2026) - 45 Hours
 
 Days worked on:
@@ -72,8 +66,6 @@ Friday – 9 hours<br>
 - Ran ERC multiple times
 - Fixed warnings and errors 
 
----
-
 ## Week 4 (06/15/2026) - 44 Hours
 
 Days worked on:
@@ -92,8 +84,6 @@ Friday – 9 hours<br>
 - Began routing high-speed signals (Pain, like never again. Memory and RAM chips should not exist)
 - Started to stitch all of the layers (Ground planes)
 
----
-
 ## Week 5 (06/22/2026) - 43 Hours
 
 Days worked on:
@@ -110,8 +100,6 @@ Friday – 9 hours<br>
 - Improved grounding around regulators
 - Added silkscreen stuff and my own touch
 - Checked clearances 
-
----
 
 ## Week 6 (06/29/2026) - 44 Hours
 
@@ -131,8 +119,6 @@ Friday – 9 hours<br>
 - Generated several 3D renders 
 - Cleaned up silkscreen (Removed extra wording)
 
----
-
 ## Week 7 (07/06/2026) - 43 Hours
 
 Days worked on:
@@ -150,8 +136,6 @@ Friday – 9 hours<br>
 - Uploaded files to JLCPCB
 - Corrected orientation issues
 - Started to work on PCB CAD files!
-
----
 
 ## Week 8 (07/13/2026) - 43 Hours
 
@@ -171,8 +155,6 @@ Friday – 9 hours<br>
 - Added text to indicate what each breakout is for
 - Finalized the screws needed and threaded each hole
 - Cross-checked everything and made renders!
-
----
 
 # Physical Build
 
