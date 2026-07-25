@@ -26,6 +26,10 @@ Friday – 9 hours<br>
 - Broke up the schematic into different chunks to make life easier (Also found out STM32N6 has multiple symbols)
 - Estimated overall board dimensions so the module could easily fit inside a bunch of stuff (universal)
 
+  <img width="585" height="822" alt="image" src="https://github.com/user-attachments/assets/e5f6cff9-0788-4146-8653-c50b9ab8298b" />
+  <img width="781" height="713" alt="image" src="https://github.com/user-attachments/assets/b240c2c4-2bae-461c-b4b3-19221b958153" />
+  <img width="601" height="780" alt="image" src="https://github.com/user-attachments/assets/10907d8d-f5dd-4cf5-a712-96612e2c8618" />
+
 ## Week 2 (06/01/2026) - 48 Hours
 
 Days worked on:
@@ -137,6 +141,11 @@ Friday – 9 hours<br>
 - Corrected orientation issues
 - Started to work on PCB CAD files!
 
+  <img width="1601" height="766" alt="image" src="https://github.com/user-attachments/assets/106a23a2-7dac-48eb-a41a-7a58cd233da1" />
+  <img width="1627" height="839" alt="image" src="https://github.com/user-attachments/assets/e84abde6-ee1a-4cf0-a323-e57edda4a298" />
+  <img width="1611" height="834" alt="image" src="https://github.com/user-attachments/assets/302b2d0e-ed4c-41f9-8302-bf138707feac" />
+
+
 ## Week 8 (07/13/2026) - 43 Hours
 
 Days worked on:
@@ -155,6 +164,10 @@ Friday – 9 hours<br>
 - Added text to indicate what each breakout is for
 - Finalized the screws needed and threaded each hole
 - Cross-checked everything and made renders!
+
+  <img width="1633" height="830" alt="image" src="https://github.com/user-attachments/assets/617ee5be-021c-45ea-bb45-9127ab4ed824" />
+  <img width="1626" height="800" alt="image" src="https://github.com/user-attachments/assets/f2781039-dfaf-4a9b-9d7e-68c170ff8ace" />
+
 
 # Physical Build
 
