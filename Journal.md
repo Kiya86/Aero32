@@ -51,6 +51,10 @@ Friday – 10 hours<br>
 - Spent several hours checking datasheets to verify recommended layouts (Also double checked all connections for shorts!)
 - Organized schematic sections
 
+  <img width="2032" height="1104" alt="image" src="https://github.com/user-attachments/assets/6fd01fc5-975f-4b04-897e-513691e4af5d" />
+  <img width="1454" height="902" alt="image" src="https://github.com/user-attachments/assets/e0e20947-0885-4a53-9ceb-408be9da8b0b" />
+
+
 ## Week 3 (06/08/2026) - 45 Hours
 
 Days worked on:
@@ -68,7 +72,12 @@ Friday – 9 hours<br>
 - Added LEDS for multiple rails and multi use
 - Fixed all of footprint mismatches
 - Ran ERC multiple times
-- Fixed warnings and errors 
+- Fixed warnings and errors
+
+  <img width="1750" height="832" alt="image" src="https://github.com/user-attachments/assets/72ed722f-f25b-4ee0-b640-8c2f2fb5cdda" />
+  <img width="1246" height="1778" alt="image" src="https://github.com/user-attachments/assets/629d8903-bbae-4ae5-aa54-4953bb038573" />
+
+
 
 ## Week 4 (06/15/2026) - 44 Hours
 
@@ -88,6 +97,11 @@ Friday – 9 hours<br>
 - Began routing high-speed signals (Pain, like never again. Memory and RAM chips should not exist)
 - Started to stitch all of the layers (Ground planes)
 
+  <img width="2264" height="1300" alt="image" src="https://github.com/user-attachments/assets/94b3c50c-323f-4dc6-9d77-c6a77e55b718" />
+  <img width="2230" height="1706" alt="image" src="https://github.com/user-attachments/assets/ddce6070-4ebc-4ee4-9d00-b088c49c8314" />
+
+
+
 ## Week 5 (06/22/2026) - 43 Hours
 
 Days worked on:
@@ -103,7 +117,11 @@ Friday – 9 hours<br>
 - Added more stitching vias
 - Improved grounding around regulators
 - Added silkscreen stuff and my own touch
-- Checked clearances 
+- Checked clearances
+
+<img width="1766" height="1488" alt="image" src="https://github.com/user-attachments/assets/9a17d0ed-2681-42f5-a4b5-a439c66f30e6" />
+<img width="2244" height="1716" alt="image" src="https://github.com/user-attachments/assets/bd41abc6-bda0-4dbd-8f2c-10874367a36c" />
+
 
 ## Week 6 (06/29/2026) - 44 Hours
 
@@ -122,6 +140,10 @@ Friday – 9 hours<br>
 - Added the mounting holes
 - Generated several 3D renders 
 - Cleaned up silkscreen (Removed extra wording)
+
+  <img width="2260" height="1730" alt="image" src="https://github.com/user-attachments/assets/6de18154-8430-410d-81e0-889f12d17f23" />
+  <img width="1320" height="984" alt="image" src="https://github.com/user-attachments/assets/76e502d8-e9a1-4665-9694-72d34665352f" />
+
 
 ## Week 7 (07/06/2026) - 43 Hours
 
