@@ -28,18 +28,17 @@ A custom STM32N6-based AI vision module!
 
 ## Key Features
 
-- **STM32N657X0H3Q** — Neural-ART accelerator that is used alongside the STM32N6 MCU
-- **15-Pin CSI FPC Connector** — Camera sensor interface
-- **MT35XU256ABA1G12** — 256 Mbit Octal SPI NOR Flash for either firmware or data 
-- **IS66WVO32M8DALL** — 256 Mbit PSRAM for working memory
-- **2× UART Ports** — Serial breakout headers
-- **2× I2C Ports** — Two-wire serial communication breakout headers
-- **1× SPI Port** — High-speed peripheral interface breakout
-- **48 MHz & 32.768 kHz Crystals** — System clock and low power RTC
-- **XT30 Battery Input** — 3S–4S LiPo input
-- **USB-C** — Programming, debugging, and power input with ESD protection
-- **5× Status LEDs** — 3 green + 2 red for power and debug feedback
-- **Input OR** — TPS2121 power multiplexer for safe dual-source power switching
+- **STM32N657X0H3Q** - Neural-ART accelerator that is used alongside the STM32N6 MCU
+- **15-Pin CSI FPC Connector** - Camera sensor interface
+- **MT35XU256ABA1G12** - 256 Mbit Octal SPI NOR Flash for either firmware or data 
+- **IS66WVO32M8DALL** - 256 Mbit PSRAM for working memory
+- **2× UART Ports** - Serial breakout headers
+- **2× I2C Ports** - Two-wire serial communication breakout headers
+- **1× SPI Port** - High-speed peripheral interface breakout
+- **48 MHz & 32.768 kHz Crystals** - System clock and low power RTC
+- **XT30 Battery Input** - 3S–4S LiPo input
+- **5× Status LEDs** - 3 green + 2 red for power and debug feedback
+- **Input OR** - TPS2121 power multiplexer for safe dual-source power switching
 
 ## Purpose
 
